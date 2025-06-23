@@ -1,6 +1,4 @@
-Here is the complete `README.md` content for your **DOC-CONV** project, formatted for GitHub:
 
-````markdown
 # DOC-CONV
 
 *Transforming Documents Seamlessly, Empowering Your Workflow*
@@ -103,10 +101,3 @@ npm test
 ---
 
 ⬅️ [Return](#doc-conv)
-
-```
-
----
-
-Let me know if you'd like this converted to PDF again or customized for a different theme (dark/light GitHub style, emoji tone-down, etc).
-```
